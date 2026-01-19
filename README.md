@@ -5,17 +5,17 @@ portfolio demonstration purposes.
 
 The documentation showcases clear, structured, and maintainable writing
 across software and engineering domains.
+
 ## Documentation Samples
 
-- **Standard Operating Procedures (SOPs)**
-  - Fiber Calendering Process
-  - Overhead Contact Line Voltage Testing
-- **User-Focused Technical Guides**
-  - Logging into SEF – Beginner User Guide
-- **Process & Workflow Documentation**
-  - Construction Permitting Process (Serbia)
-- **Terminology Management**
-  - Technical Terminology Glossary (CN–SR–EN)
+| Documentation Type | Sample Documents |
+|--------------------|------------------|
+| **Standard Operating Procedures (SOPs)** | Fiber Calendering Process – SOP<br>Overhead Contact Line Voltage Testing – SOP |
+| **User-Focused Technical Guides** | Logging into SEF – Beginner User Guide |
+| **Process & Workflow Documentation** | Construction Permitting Process – Investor Documentation Workflow (Serbia) |
+| **Visual Documentation / Infographics** | Fiber Calendering – Process Infographic |
+| **Terminology Management** | Technical Terminology Glossary (CN–SR–EN) |
+
 ## Full Documentation
 
 [View full documentation in the Project Wiki →](https://github.com/Olivera-Tabajica/Technical-writing-portfolio/wiki)
